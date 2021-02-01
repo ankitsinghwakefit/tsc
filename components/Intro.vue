@@ -8,7 +8,7 @@
         <h2>About us</h2>
         <p>Stocksala is committed to produce Stock Market Analyst, Equity Analyst / Research Analyst and professionals for this upcoming sector. Stocksala is narrowing the gap between industry demand and supply for professionals. Stocksala is creating almost 400 plus professionals per year but as per demand, it is too low.</p>
         <p>
-          IFMC is the pioneer in the quality education of Stock Markets in India. We provide complete in-depth knowledge in all segments of the financial markets, like share market, capital market, derivative market, commodity markets, currency/Forex market, mutual fund, and insurance sectors.
+          Stocksala is the pioneer in the quality education of Stock Markets in India. We provide complete in-depth knowledge in all segments of the financial markets, like share market, capital market, derivative market, commodity markets, currency/Forex market, mutual fund, and insurance sectors.
         </p>
       </b-col>
     </b-row>
